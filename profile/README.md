@@ -28,4 +28,4 @@ GOhiring is a profitable, fast growing B2B SaaS company that empowers thousands 
 Simply send us your profile in addition or optionally your Github handle. We are happy to hear from you. Diversity and equal opportunity are important to us. We are happy about the interest of all candidates and strive to provide feedback as quickly as possible.
 </br>
 
-### :point_right: Check out open positions: [gohiring.com/jobs](https://www.gohiring.com/jobs)
+### :point_right: Check out open positions: [gohiring.com/en/jobs](https://gohiring.com/en/jobs/)
