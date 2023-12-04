@@ -1,6 +1,6 @@
 # Hey there, we are GOhiring
 
-![GOhiring Team Github Hero](https://user-images.githubusercontent.com/1110222/142155092-5e77ca2e-ea91-441d-bc2a-85336f7946b1.png)
+![2023_GitHub Banner](https://github.com/gohiring/.github/assets/1110222/6aa92625-a8d7-4a88-b6c7-e28910973956)
 
 GOhiring is a profitable and growing B2B SaaS company that empowers thousands of enterprise customers to make data-based recruitment decisions. Our great international team of [35+ hand picked geeks](https://gohiring.com/en/jobs/#people) is passionate about technology and data – working remotely since 2012. If you would like to work with nice and talented people in a software company that cares about thought-through processes, we are waiting for you! :rocket:
 </br>
@@ -29,3 +29,4 @@ Simply send us your profile in addition or optionally your Github handle. We are
 </br>
 
 ### :point_right: Check out open positions: [gohiring.com/en/jobs](https://gohiring.com/en/jobs/)
+
