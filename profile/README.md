@@ -2,7 +2,7 @@
 
 ![2023_GitHub Banner](https://github.com/gohiring/.github/assets/1110222/6aa92625-a8d7-4a88-b6c7-e28910973956)
 
-GOhiring is a profitable and growing B2B SaaS company that empowers thousands of enterprise customers to make data-based recruitment decisions. Our great international team of [35+ hand picked geeks](https://gohiring.com/en/jobs/#people) is passionate about technology and data – working remotely since 2012. If you would like to work with nice and talented people in a software company that cares about thought-through processes, we are waiting for you! :rocket:
+GOhiring is a profitable and growing B2B SaaS company that empowers thousands of enterprise customers to make data-based recruitment decisions. Our great international team of [50+ hand picked geeks](https://gohiring.com/en/jobs/#people) is passionate about technology and data – working remotely since 2012. If you would like to work with nice and talented people in a software company that cares about thought-through processes, we are waiting for you! :rocket:
 </br>
 </br>
 
